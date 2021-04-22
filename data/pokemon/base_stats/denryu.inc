@@ -9,7 +9,7 @@
 	db ITEM_APPLE, ITEM_THUNDER_TAIL ; items
 	db GENDER_50_50 ; gender ratio
 	db 100, 4, 70 ; unknown
-	dn 7, 7 ; sprite dimensions
+	dn 6, 6 ; sprite dimensions
 	dw DenryuPicFront, DenryuPicBack ; sprites
 	db GROWTH_MEDIUM_SLOW ; growth rate
 
