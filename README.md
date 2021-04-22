@@ -9,6 +9,7 @@ It builds the following ROMs:
 
 You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.
 
+![Optional Text](docs//pokegold-spaceworld-0.png)
 
 ## See also
 
