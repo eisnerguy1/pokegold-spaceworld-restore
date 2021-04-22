@@ -1,3 +1,7 @@
+# This is a fork of the [**Pokémon Gold Spaceworld 1997 Demo**][pokegold] disassembly.
+
+The aim is to restore as much content in the demo as possible.
+
 # Pokémon Gold and Silver: Space World 1997 Demo [![Build Status][travis-badge]][travis]
 
 This is a work-in-progress disassembly of the Pokémon Gold and Pokémon Silver prototypes demoed at Space World 1997.
@@ -10,6 +14,7 @@ It builds the following ROMs:
 You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.
 
 ![Optional Text](docs//pokegold-spaceworld-0.png)
+
 
 ## See also
 
@@ -41,3 +46,4 @@ Other disassembly projects:
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
 [travis]: https://travis-ci.org/pret/pokegold-spaceworld
 [travis-badge]: https://travis-ci.org/pret/pokegold-spaceworld.svg?branch=master
+[pokegold]: https://github.com/pret/pokegold-spaceworld
