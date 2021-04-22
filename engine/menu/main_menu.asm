@@ -302,6 +302,6 @@ StartNewGame::
 	ldh [hMapAnims], a
 	ld a, [wDebugFlags]
 	bit DEBUG_FIELD_F, a
-	jp z, DemoStart
+	jp z, GameStart
 	call DebugSetUpPlayer
 	jp IntroCleanup
