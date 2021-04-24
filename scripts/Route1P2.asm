@@ -47,9 +47,9 @@ Route1P2Script::
 .endDemo
 Route1P2Text1:
 	ld hl, Route1P2TextString4
-;	call OpenTextbox
-;	call GBFadeOutToBlack
-;	jp Init
+	call OpenTextbox
+	call GBFadeOutToBlack
+	jp Init
 
 Route1P2Text2:
 	ld hl, $D3A2 ; trainer flags?
