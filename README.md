@@ -25,7 +25,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
     <a href="#pokemart_widths">Fixed PokeMart widths</a>
     </li> 
       <li>
-    <a href="evolutions">Restored Disabled Evolutions</a>
+    <a href="#evolutions">Restored Disabled Evolutions</a>
     </li> 
   </ol>
 <br>
