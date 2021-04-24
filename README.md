@@ -3,10 +3,14 @@
 
 # This is a fork of the [**Pokémon Gold Spaceworld 1997 Demo**][pokegold] disassembly.
 
-The aim is to restore as much content in the demo as possible. It builds the following ROMs:
+The aim is to restore as much content in the demo as possible. For more information about the Spaceworld 1997 demo, check out the article on tcrf:
+<br>
+[Proto:Pokémon Gold and Silver/Spaceworld 1997 Demo](https://tcrf.net/Proto:Pokémon_Gold_and_Silver/Spaceworld_1997_Demo)
+<br><br>
+It builds the following ROMs:
 
-- Gold_debug.sgb `sha1: b1d7539a87dea81b2cff6146afaad64470d08d84`
-- Gold_debug.sgb (correct header) `sha1: 87fd8dbe5db39619529abcfc99e74cc5ecb8b94e`
+- Gold_debug.sgb `sha1: (None yet)`
+- Gold_debug.sgb (correct header) `sha1: (None yet)`
 
 You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.
 
