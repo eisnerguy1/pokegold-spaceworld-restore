@@ -19,7 +19,7 @@ Route1P2_MapEvents::
 	bg_event 10, 20, 1
 
 	def_object_events
-	object_event  0, 0, SPRITE_SILVER, SLOW_STEP_UP, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0
+	object_event  8,  6, SPRITE_SILVER, SLOW_STEP_UP, 0, 0, -1, -1, 0, 0, 0, 0, 0, 0
 	object_event  7, 15, SPRITE_TEACHER, STEP_DOWN, 0, 0, -1, -1, 0, 0, 0, 3, 0, 0
 
 Route1P2_Blocks::
