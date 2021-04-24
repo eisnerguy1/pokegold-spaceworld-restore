@@ -31,13 +31,13 @@ The aim is to restore as much content in the demo as possible.
 <div id="minimal_story_mode"></div>
 Enabled minimal story mode
 <br>
-<img src="images/1_Story_mode/Story_mode_01.png" width=320 height=288> &nbsp; <img src="images/1_Story_mode/Story_mode_02.png" width=320 height=288> &nbsp; 
+<img src="images/1_Story_mode/Story_mode_01.png" width="160" height="144"> &nbsp; <img src="images/1_Story_mode/Story_mode_02.png" width="160" height="144"> 
+<img src="images/1_Story_mode/Story_mode_03.png" width="160" height="144">
 <br>
-<img src="images/1_Story_mode/Story_mode_03.png" width=320 height=288> &nbsp;<img src="images/1_Story_mode/Story_mode_04.png" width=320 height=288> &nbsp;
+<img src="images/1_Story_mode/Story_mode_04.png" width="160" height="144">
+<img src="images/1_Story_mode/Story_mode_05.png" width="160" height="144"> &nbsp; <img src="images/1_Story_mode/Story_mode_06.png" width="160" height="144">
 <br>
-<img src="images/1_Story_mode/Story_mode_05.png" width=320 height=288> &nbsp; <img src="images/1_Story_mode/Story_mode_06.png" width=320 height=288> &nbsp;
-<br>
-<img src="images/1_Story_mode/Story_mode_07.png" width=320 height=288> &nbsp;
+<img src="images/1_Story_mode/Story_mode_07.png" width="160" height="144">
 
 # Pokémon Gold and Silver: Space World 1997 Demo [![Build Status][travis-badge]][travis]
 
