@@ -27,6 +27,9 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
       <li>
     <a href="#evolutions">Restored Disabled Evolutions</a>
     </li> 
+        <li>
+    <a href="#rival_end_demo">Moved the Rival at end of demo</a>
+    </li> 
   </ol>
 <br>
 <div id="minimal_story_mode"></div>
@@ -63,7 +66,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 </table>
 
 
-<div id="rival_battle"></div>
+<div id="pokemart_widths"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/538bef1988b1a43f24857db20f52152b3b2714b8">Fixed PokéMart widths</a></h2>
 <table>
   <tr>
@@ -92,7 +95,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 
 
 <div id="evolutions"></div>
-<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/e0abfe6db4f4ce4061f80d196883f4f6998221d2">Restored Disabled Evolutions </a></h2>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/e0abfe6db4f4ce4061f80d196883f4f6998221d2">Restored Disabled Evolutions</a></h2>
 <table>
   <tr>
         <td width="320" height="288"> <img src="images/4_Evolutions/Evolutions_01.png"></td> 
@@ -184,5 +187,15 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
          <tr>
         <td width="112"> <img src="images/4_Evolutions/Poison_Stone/GS-Proto-Normal-133-Front.png"></td> 
         <td width="112"> <img src="images/4_Evolutions/Poison_Stone/GS-Proto-Normal-206-Front.png"></td> 
+      </tr>
+</table>
+
+
+<div id="rival_end_demo"></div>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/eea90e4d2319249f43b7494136c3cc5eadc928a5">Moved the Rival at end of demo</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/5_Rival_Demo_End/Rival_Demo_End_01.png"></td> 
+        <td width="320" height="288"> <img src="images/5_Rival_Demo_End/Rival_Demo_End_02.png"></td> 
       </tr>
 </table>
