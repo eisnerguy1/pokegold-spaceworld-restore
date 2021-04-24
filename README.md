@@ -153,7 +153,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
       </tr>
 </table>
 
-Heart Stone & Poison Stone doen't work for some reason.   I'm still looking into why they don't work.
+Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="https://pastebin.com/7m0eeRh3">looking into</a> why they don't work.
 
 <b>Heart Stone Evolutions</b>
 <table>
