@@ -1,4 +1,4 @@
-<img src="images/title.png" width="160" height="144">
+<img src="images/title.png" width="320" height="288">
 
 
 # This is a fork of the [**Pokémon Gold Spaceworld 1997 Demo**][pokegold] disassembly.
@@ -17,41 +17,41 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
   <ol>
     <li>
      <a href="#minimal_story_mode">Enabled Minimal Story Mode</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+  </li>
+  <li>
+    <a href="#rival_battle">Fixed Rival battle in minimal story mode</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-
+<br>
 <div id="minimal_story_mode"></div>
-<h1><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode</a></h1>
-<table>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
+<table style="border-spacing: 100px;">
   <tr>
-    <td> <img src="images/1_Story_mode/Story_mode_01.png" width="160" height="144"></td> 
-    <td> <img src="images/1_Story_mode/Story_mode_02.png" width="160" height="144"></td> 
-    <td> <img src="images/1_Story_mode/Story_mode_03.png" width="160" height="144"></td> 
+    <td width="320" height="288"><img src="images/1_Story_mode/Story_mode_01.png"></td>
+    <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_02.png"></td> 
+    <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_03.png"></td>
   </tr> 
   
    <tr>
-    <td> <img src="images/1_Story_mode/Story_mode_04.png" width="160" height="144"></td> 
-    <td> <img src="images/1_Story_mode/Story_mode_05.png" width="160" height="144"></td> 
-    <td> <img src="images/1_Story_mode/Story_mode_06.png" width="160" height="144"></td> 
+     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_04.png"></td>
+     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_05.png"></td>
+     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_06.png"></td>
   </tr> 
      <tr>
-    <td> <img src="images/1_Story_mode/Story_mode_07.png" width="160" height="144"></td> 
+     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_07.png"></td>
   </tr> 
-  
-</table> 
+</table>
+
+
+<div id="rival_battle"></div>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Fixed Rival battle in minimal story mode </a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/2_Rival_Battle/Rival_Battle_01.png"></td> 
+        <td width="320" height="288"> <img src="images/2_Rival_Battle/Rival_Battle_02.png"></td> 
+        <td width="320" height="288"> <img src="images/2_Rival_Battle/Rival_Battle_03.png"></td>
+      </tr>
+    <tr>
+        <td width="320" height="288"> <img src="images/2_Rival_Battle/Rival_Battle_04.png"></td> 
+  </tr> 
+</table>
