@@ -221,7 +221,7 @@ BeedrillEvosAttacks:
 	db 0 ; no more level-up moves
 
 PidgeyEvosAttacks:
-	; db EVOLVE_LEVEL, 18, DEX_PIDGEOTTO
+	db EVOLVE_LEVEL, 18, DEX_PIDGEOTTO
 	db 0 ; no more evolutions
 	db  1, MOVE_GUST
 	db  6, MOVE_SAND_ATTACK
@@ -259,7 +259,7 @@ PidgeotEvosAttacks:
 	db 0 ; no more level-up moves
 
 RattataEvosAttacks:
-	; db EVOLVE_LEVEL, 20, DEX_RATICATE
+	db EVOLVE_LEVEL, 20, DEX_RATICATE
 	db 0 ; no more evolutions
 	db  1, MOVE_TACKLE
 	db  4, MOVE_TAIL_WHIP
@@ -311,7 +311,7 @@ FearowEvosAttacks:
 	db 0 ; no more level-up moves
 
 EkansEvosAttacks:
-	; db EVOLVE_LEVEL, 22, DEX_ARBOK
+	db EVOLVE_LEVEL, 22, DEX_ARBOK
 	db 0 ; no more evolutions
 	db  1, MOVE_WRAP
 	db  6, MOVE_LEER
@@ -337,7 +337,7 @@ ArbokEvosAttacks:
 	db 0 ; no more level-up moves
 
 PikachuEvosAttacks:
-	; db EVOLVE_STONE, 1, ITEM_THUNDERSTONE, DEX_RAICHU
+	db EVOLVE_STONE, 1, ITEM_THUNDERSTONE, DEX_RAICHU
 	db 0 ; no more evolutions
 	db  1, MOVE_GROWL
 	db  5, MOVE_THUNDERSHOCK
@@ -1754,7 +1754,7 @@ EeveeEvosAttacks:
 	db EVOLVE_STONE, 1, ITEM_HEART_STONE, DEX_EIFIE
 	db EVOLVE_STONE, 1, ITEM_POISON_STONE, DEX_BLACKY
 	db EVOLVE_STONE, 1, ITEM_LEAF_STONE, DEX_LEAFY
-	; db 0 ; no more evolutions
+	db 0 ; no more evolutions
 	db  1, MOVE_TACKLE
 	db  7, MOVE_SAND_ATTACK
 	db 14, MOVE_QUICK_ATTACK
@@ -2006,7 +2006,7 @@ MewEvosAttacks:
 	db 0 ; no more level-up moves
 
 HappaEvosAttacks:
-	; db EVOLVE_LEVEL, 16, DEX_HANAMOGURA
+	db EVOLVE_LEVEL, 16, DEX_HANAMOGURA
 	db 0 ; no more evolutions
 	db  1, MOVE_TACKLE
 	db  3, MOVE_GROWTH
@@ -2050,7 +2050,7 @@ HanaryuEvosAttacks:
 	db 0 ; no more level-up moves
 
 HonogumaEvosAttacks:
-	; db EVOLVE_LEVEL, 16, DEX_VOLBEAR
+	db EVOLVE_LEVEL, 16, DEX_VOLBEAR
 	db 0 ; no more evolutions
 	db  1, MOVE_SCRATCH
 	db  5, MOVE_LEER
@@ -2094,7 +2094,7 @@ DynabearEvosAttacks:
 	db 0 ; no more level-up moves
 
 KurusuEvosAttacks:
-	; db EVOLVE_LEVEL, 16, DEX_AQUA
+	db EVOLVE_LEVEL, 16, DEX_AQUA
 	db 0 ; no more evolutions
 	db  1, MOVE_TACKLE
 	db  4, MOVE_GROWL
@@ -2135,7 +2135,7 @@ AquariaEvosAttacks:
 	db 0 ; no more level-up moves
 
 HohoEvosAttacks:
-	; db EVOLVE_LEVEL, 20, DEX_BOBO
+	db EVOLVE_LEVEL, 20, DEX_BOBO
 	db 0 ; no more evolutions
 	db  1, MOVE_GROWL
 	db  3, MOVE_TACKLE
@@ -2653,7 +2653,7 @@ AnnonEvosAttacks:
 	db 0 ; no more level-up moves
 
 RedibaEvosAttacks:
-	; db EVOLVE_LEVEL, 18, DEX_MITSUBOSHI
+	db EVOLVE_LEVEL, 18, DEX_MITSUBOSHI
 	db 0 ; no more evolutions
 	db  1, MOVE_SCRATCH
 	db  8, MOVE_QUICK_ATTACK
@@ -2797,7 +2797,7 @@ PudieEvosAttacks:
 	db 0 ; no more level-up moves
 
 HanekoEvosAttacks:
-	; db EVOLVE_LEVEL, 18, DEX_POPONEKO
+	db EVOLVE_LEVEL, 18, DEX_POPONEKO
 	db 0 ; no more evolutions
 	db  1, MOVE_ABSORB
 	db  4, MOVE_POUND
