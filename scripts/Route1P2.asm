@@ -25,10 +25,10 @@ Route1P2_TextPointers::
 	dw Route1P2Text2
 
 Route1P2Script::
-	ld a, [wYCoord]
+;	ld a, [wYCoord]
 	cp $06
 	jr nz, .skipCheck
-	ld a, [wXCoord]
+;	ld a, [wXCoord]
 	cp $09
 	jr nz, .skipCheck
 	ld a, 0 ; player
@@ -37,7 +37,7 @@ Route1P2Script::
 	ld a, 2
 	ld d, RIGHT
 	call SetObjectFacing
-	jr .endDemo
+;	jr .endDemo
 .skipCheck
 	ld hl, Route1P2NPCIDs ;data
 	ld de, Route1P2SignPointers ;start of textld pointers?
@@ -47,9 +47,9 @@ Route1P2Script::
 .endDemo
 Route1P2Text1:
 	ld hl, Route1P2TextString4
-	call OpenTextbox
-	call GBFadeOutToBlack
-	jp Init
+;	call OpenTextbox
+;	call GBFadeOutToBlack
+;	jp Init
 
 Route1P2Text2:
 	ld hl, $D3A2 ; trainer flags?
