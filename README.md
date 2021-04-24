@@ -13,7 +13,6 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 [pokegold]: https://github.com/pret/pokegold-spaceworld
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -36,11 +35,9 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
 
 <div id="minimal_story_mode"></div>
 <h1><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode</a></h1>
-<br>
 <table>
   <tr>
     <td> <img src="images/1_Story_mode/Story_mode_01.png" width="160" height="144"></td> 
