@@ -20,6 +20,9 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
+     <a href="#to-do">Things to work on</a>
+  </li>
+<li>
      <a href="#minimal_story_mode">Enabled Minimal Story Mode</a>
   </li>
   <li>
@@ -36,11 +39,30 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
     </li> 
   </ol>
 <br>
+<div id="to-do""></div>
+<h2>Things to work on</h2>
+                
+- [ ] Correct collision data for the Gate buildings
+- [ ] Correct collision data for all of the towns
+- [ ] Correct tall grass collision data
+- [ ] Correct collision data for water
+- [ ] Have fully functional 2F in all Pokémon Centers?
+- [ ] Change end of game (when out of usable Pokémon) to having your party auto-healed and the game continues
+- [ ] Fix Heart Stone & Poison Stone
+- [ ] Verify that maps seamlessly connect?  If not, correct them?
+- [ ] Fix Pokémon Storage?  Use Field Debug Menu item?
+- [ ] Enable PokéMart? Field Debug Menu item?
+- [ ] Enable Pikachu & Sunflora's send out animation for all shiny Pokémon and give those 2 Pokémon the default send out animation
+- [ ] add stairs up for schools -> Gym: old
+- [ ] add stairs down for gyms -> school: all
+- [ ] remove school floor and lead directly to gym instead?  
+- [ ] Give the starter Pokémon a berry to hold like in the final GSC?            
+<br>
 <div id="minimal_story_mode"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
-<table style="border-spacing: 100px;">
+<table>
   <tr>
-    <td width="320" height="288"><img src="images/1_Story_mode/Story_mode_01.png"></td>
+    <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_01.png"></td>
     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_02.png"></td> 
     <td width="320" height="288"> <img src="images/1_Story_mode/Story_mode_03.png"></td>
   </tr> 
@@ -57,7 +79,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 
 
 <div id="rival_battle"></div>
-<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Fixed Rival battle in minimal story mode </a></h2>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/971fd4f10ffccc18d2869dba3c4c5fe77d3e56aa">Fixed Rival battle in minimal story mode </a></h2>
 <table>
   <tr>
         <td width="320" height="288"> <img src="images/2_Rival_Battle/Rival_Battle_01.png"></td> 
