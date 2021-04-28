@@ -12,7 +12,7 @@ It builds the following ROMs:
 - Gold_debug.sgb `sha1: (None yet)`
 - Gold_debug.sgb (correct header) `sha1: (None yet)`
 
-You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.
+You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  [Thanks to Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other issues with ease.
 
 [pokegold]: https://github.com/pret/pokegold-spaceworld
 
@@ -37,12 +37,18 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
         <li>
     <a href="#rival_end_demo">Moved the Rival at end of demo</a>
     </li> 
+          <li>
+    <a href="#gate">Correct collision data for the Gate buildings & Pkmn Center Battle & Trade rooms</a>
+    </li>
+            <li>
+    <a href="#pokemart">Correct collision data for the PokéMart interior</a>
+    </li>
   </ol>
+  
 <br>
-<div id="to-do""></div>
+<div id="to-do""> </div>
 <h2>Things to work on</h2>
                 
-- [ ] Correct collision data for the Gate buildings
 - [ ] Correct collision data for all of the towns
 - [ ] Correct tall grass collision data
 - [ ] Correct collision data for water
@@ -58,7 +64,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 - [ ] remove school floor and lead directly to gym instead?  
 - [ ] Give the starter Pokémon a berry to hold like in the final GSC?    
 - [ ] Add missing buildings for Prince
-- [ ] Fix Trading palette issues        
+- [ ] Fix Trading palette issues       
 <br>
 <div id="minimal_story_mode"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
@@ -225,5 +231,30 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
   <tr>
         <td width="320" height="288"> <img src="images/5_Rival_Demo_End/Rival_Demo_End_01.png"></td> 
         <td width="320" height="288"> <img src="images/5_Rival_Demo_End/Rival_Demo_End_02.png"></td> 
+      </tr>
+</table>
+
+
+<div id="gate"></div>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/619483a6d718b622bc037cf5ea5701009f115588">Correct collision data for the Gate buildings & Pkmn Center Battle & Trade rooms.</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_01.png"></td> 
+        <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_02.png"></td>
+            <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_03.png"></td>
+      </tr>
+  
+  <tr>
+          <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_04.png"></td>
+          <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_05.png"></td>
+  </tr>
+</table>
+
+
+<div id="pokemart"></div>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/669b3b7e513b87acf0533e94490d04edaa7e7dc6">Correct collision data for the PokéMart interior.</a></h2>
+<table>
+  <tr>
+                <td width="512"> <img src="images/3_PokéMart/PKMNGS-SpaceWorld97-PokeMart-Correct.png"></td> 
       </tr>
 </table>
