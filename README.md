@@ -12,7 +12,7 @@ It builds the following ROMs:
 - Gold_debug.sgb `sha1: (None yet)`
 - Gold_debug.sgb (correct header) `sha1: (None yet)`
 
-You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  [Thanks to Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other issues with ease.
+You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  Thanks to [Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other issues with ease.
 
 [pokegold]: https://github.com/pret/pokegold-spaceworld
 
