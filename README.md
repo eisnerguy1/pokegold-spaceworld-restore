@@ -56,7 +56,9 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 - [ ] add stairs up for schools -> Gym: old
 - [ ] add stairs down for gyms -> school: all
 - [ ] remove school floor and lead directly to gym instead?  
-- [ ] Give the starter Pokémon a berry to hold like in the final GSC?            
+- [ ] Give the starter Pokémon a berry to hold like in the final GSC?    
+- [ ] Add missing buildings for Prince
+- [ ] Fix Trading palette issues        
 <br>
 <div id="minimal_story_mode"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
