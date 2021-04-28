@@ -44,7 +44,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
     <a href="#pokemart">Correct collision data for the PokéMart interior</a>
     </li>
   <li>
-    <a href="pinkmon">  Fixed the SHINY_PINKMON Palette</a>
+    <a href="#pinkmon">  Fixed the SHINY_PINKMON Palette</a>
     </li>
   </ol>
   
