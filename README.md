@@ -43,6 +43,9 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
             <li>
     <a href="#pokemart">Correct collision data for the PokéMart interior</a>
     </li>
+  <li>
+    <a href="pinkmon">  Fixed the SHINY_PINKMON Palette</a>
+    </li>
   </ol>
   
 <br>
@@ -236,7 +239,7 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
 
 
 <div id="gate"></div>
-<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/619483a6d718b622bc037cf5ea5701009f115588">Correct collision data for the Gate buildings & Pkmn Center Battle & Trade rooms.</a></h2>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/9a3ab78def38e6f5b7cb28af80bd50b6ba8dfec9">Correct collision data for the Gate buildings & Pkmn Center Battle & Trade rooms.</a></h2>
 <table>
   <tr>
         <td width="320" height="288"> <img src="images/6_Gate_PKMN_trade_battle/Gate_PKMN_trade_battle_01.png"></td> 
@@ -256,5 +259,19 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
 <table>
   <tr>
                 <td width="512"> <img src="images/3_PokéMart/PKMNGS-SpaceWorld97-PokeMart-Correct.png"></td> 
+      </tr>
+</table>
+
+
+<div id="pinkmon"></div>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/724922d535d179323c7d981a2ecaca8006c08173">Fixed the SHINY_PINKMON Palette</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_01.png"></td> 
+        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_02.png"></td> 
+  </tr>
+  <tr>
+        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_05.png"></td> 
+        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_06.png"></td> 
       </tr>
 </table>
