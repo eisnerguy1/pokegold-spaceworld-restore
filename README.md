@@ -44,8 +44,11 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
     <a href="#pokemart">Correct collision data for the PokéMart interior</a>
     </li>
   <li>
-    <a href="#pinkmon">  Fixed the SHINY_PINKMON Palette</a>
+    <a href="#pinkmon">Fixed the SHINY_PINKMON Palette</a>
     </li>
+  
+  <li>
+  <a href="#old_r2">Fixed collision data for Old & Route 2</a>
   </ol>
   
 <br>
@@ -267,11 +270,16 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/724922d535d179323c7d981a2ecaca8006c08173">Fixed the SHINY_PINKMON Palette</a></h2>
 <table>
   <tr>
-        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_01.png"></td> 
-        <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_02.png"></td> 
-  </tr>
-  <tr>
         <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_05.png"></td> 
         <td width="320" height="288"> <img src="images/7_Shiny_Pinkmon/Shiny_Pinkmon_06.png"></td> 
       </tr>
+</table>
+
+<div id="old_r2">
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/b37f2b3acc53aa1504f9c296f3bc3fdfaf39b728">Fixed collision data for Old & Route 2</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/08_Old_Route_2/Old.png"></td> 
+        <td width="320" height="288"> <img src="images/08_Old_Route_2/Route_2.png"></td> 
+  </tr>
 </table>
