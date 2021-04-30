@@ -52,8 +52,8 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
   </ol>
   
 <br>
-<div id="to-do""> </div>
-<h2>Things to work on</h2>
+<div id="to-do"> </div>
+<h2>Possible things to work on</h2>
                 
 - [ ] Correct collision data for all of the towns
 - [ ] Correct tall grass collision data
@@ -70,7 +70,11 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 - [ ] remove school floor and lead directly to gym instead?  
 - [ ] Give the starter Pokémon a berry to hold like in the final GSC?    
 - [ ] Add missing buildings for Prince
-- [ ] Fix Trading palette issues       
+- [ ] Fix Trading palette issues
+- [ ] Fix the collision data of the unused maps and integrate them back with the used maps?   
+- [ ] Add unused Debug Menu options back in   
+- [ ] Translate Debug Menus/other Menus
+- [ ] Fix the Skateboard so that it functions properly 
 <br>
 <div id="minimal_story_mode"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
