@@ -9,10 +9,10 @@ The aim is to restore as much content in the demo as possible. For more informat
 <br><br>
 It builds the following ROMs:
 
-- Gold_debug.sgb `sha1: (None yet)`
-- Gold_debug.sgb (correct header) `sha1: (None yet)`
+- Gold_debug.sgb `sha1: 65540ebe39a80e574a1f208ab2b1af2e30dad24d`
+- Gold_debug.sgb (correct header) `sha1: 80392b524144ddfb31d7e5345e092c0a3bb3fe13`
 
-You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  Thanks to [Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other issues with ease.
+You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  Thanks to [Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other map issues with ease.
 
 [pokegold]: https://github.com/pret/pokegold-spaceworld
 
@@ -49,6 +49,15 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
   
   <li>
   <a href="#old_r2">Fixed collision data for Old & Route 2</a>
+  </li>
+  
+  <li>
+   <a href="#east_silent_rocks">Fixed collision Data for East & removed the rocks east of Silent to be able to get to Kanto.</a>
+            </li>
+            
+  <li>
+   <a href="#birdon_etc">Fixed collision data for Birdon South, Birdon, Birdon East, Stand, Prince & Mt. Fuji. Also carved path from Silent to Prince.</a>
+     </li>         
   </ol>
   
 <br>
@@ -280,10 +289,48 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
 </table>
 
 <div id="old_r2">
-<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/b37f2b3acc53aa1504f9c296f3bc3fdfaf39b728">Fixed collision data for Old & Route 2</a></h2>
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/b37f2b3acc53aa1504f9c296f3bc3fdfaf39b728">Fixed collision data for Old, Route 2, New Type, Route 15, Route 18 & Route Silent East</a></h2>
 <table>
   <tr>
         <td width="320" height="288"> <img src="images/08_Old_Route_2/Old.png"></td> 
         <td width="320" height="288"> <img src="images/08_Old_Route_2/Route_2.png"></td> 
   </tr>
+  <tr>
+            <td width="320" height="288"> <img src="images/08_Old_Route_2/New Type.png"></td> 
+                <td width="320" height="288"> <img src="images/08_Old_Route_2/Route_15.png"></td> 
+  </tr>
+    <tr>
+            <td width="320" height="288"> <img src="images/08_Old_Route_2/Route_18.png"></td> 
+                <td width="320" height="288"> <img src="images/08_Old_Route_2/Route_Silent_East.png"></td> 
+  </tr>
 </table>
+  
+<div id="east_silent_rocks">
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/22d6f87e2d4bb6ba198d067586e1a23f59aff797">Fixed collision Data for East & removed the rocks east of Silent to be able to get to Kanto.</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/09_West_Silent_East_Rock/West.png"></td> 
+        <td width="320" height="288"> <img src="images/09_West_Silent_East_Rock/Silent_East_Rock.png"></td> 
+  </tr>
+</table>  
+  
+  
+  <div id="birdon_etc">
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/e2ad45d1d157cc3c16a4b3b93b16767d1532abbe">Fixed collision data for Birdon South, Birdon, Birdon East, Stand, Prince & Mt. Fuji. Also carved path from Silent to Prince.</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/1_Birdon_South.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/2_Birdon.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/3_Birdon_East.png"></td> 
+  </tr>
+    <tr>
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/4_Stand.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/5_Prince.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/6_Mt. Fuji.png"></td> 
+  </tr>
+      <tr>
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/7_Prince_path_1.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/8_Prince_path_2.png"></td> 
+        <td width="320" height="288"> <img src="images/10_Birdon_etc/9_Prince_path_3.png"></td> 
+  </tr>
+</table>  
