@@ -9,8 +9,8 @@ The aim is to restore as much content in the demo as possible. For more informat
 <br><br>
 It builds the following ROMs:
 
-- Gold_debug.sgb `sha1: 65540ebe39a80e574a1f208ab2b1af2e30dad24d`
-- Gold_debug.sgb (correct header) `sha1: 80392b524144ddfb31d7e5345e092c0a3bb3fe13`
+- Gold_debug.sgb `sha1: 878750e6cfa9b7d9a50d64bde7e1ef56362ef91d`
+- Gold_debug.sgb (correct header) `sha1: ba47adcca68396b882ad96801e85a4e357f4c780`
 
 You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to build the ROMs.  Thanks to [Polished Map](https://github.com/Rangi42/polished-map) for allowing me to correct the collision data and other map issues with ease.
 
@@ -57,7 +57,11 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
             
   <li>
    <a href="#birdon_etc">Fixed collision data for Birdon South, Birdon, Birdon East, Stand, Prince & Mt. Fuji. Also carved path from Silent to Prince.</a>
-     </li>         
+     </li>  
+     
+   <li>
+   <a href="#fonto_etc">Fixed collision data for Fonto & FontoRoute1 - FontoRoute6. Also changed FontoRoute1 & FontoRoute2 to remove blockage.</a>
+     </li>  
   </ol>
   
 <br>
@@ -84,6 +88,7 @@ You will need to provide a copy of Gold_debug.sgb renamed **baserom.gb** to buil
 - [ ] Add unused Debug Menu options back in   
 - [ ] Translate Debug Menus/other Menus
 - [ ] Fix the Skateboard so that it functions properly 
+- [ ] Replicate Blue stopping you and bringing you to Oak's lab for both the Silent North & Silent East exit
 <br>
 <div id="minimal_story_mode"></div>
 <h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/49410368d68fd22434da73e8bbf02d48516d6d61">Enabled minimal story mode </a></h2>
@@ -333,4 +338,30 @@ Heart Stone & Poison Stone doen't work for some reason.   I'm still <a href="htt
         <td width="320" height="288"> <img src="images/10_Birdon_etc/8_Prince_path_2.png"></td> 
         <td width="320" height="288"> <img src="images/10_Birdon_etc/9_Prince_path_3.png"></td> 
   </tr>
-</table>  
+</table> 
+  
+  <div id="fonto_etc">
+<h2><a href="https://github.com/eisnerguy1/pokegold-spaceworld-restore/commit/9177e3f720ce2ae09fa7524faab7aea456989c3b">Fixed collision data for Fonto & FontoRoute1 - FontoRoute6. Also changed FontoRoute1 & FontoRoute2 to remove blockage.</a></h2>
+<table>
+  <tr>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/Fonto.png"></td> 
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute1.png"></td> 
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute2.png"></td> 
+  </tr>
+    <tr>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute3.png"></td>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute4.png"></td>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute5.png"></td>
+  </tr>
+      <tr>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute6.png"></td>
+    </tr>
+        <tr>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/Fonto_Remove_West_Blockage.png"></td>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/Fonto_Remove_West_Blockage_Fixed.png"></td> 
+  </tr>
+      <tr>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute2.png"></td>
+        <td width="320" height="288"> <img src="images/11_Fonto_etc/FontoRoute2_Remove_Blockage_Fixed.png"></td> 
+  </tr>
+</table>   
